@@ -1,5 +1,5 @@
+# Weather App using Weather Api
 import requests
-
 
 def data_get():
    print("\t\tWelcome to the Weather Forecaster!\n")
