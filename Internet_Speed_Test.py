@@ -1,3 +1,4 @@
+# Importing required modules
 from tkinter import *
 from speedtest import Speedtest 
 
@@ -49,8 +50,5 @@ button = Button(sp,text="Check Speed",font=("Time New Roman",20,"bold"),relief=R
 
 # Dimension of Button
 button.place(x=60,y=460,height=50,width=380)
-
-
-
 
 sp.mainloop()
